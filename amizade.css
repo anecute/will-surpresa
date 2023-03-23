@@ -1,0 +1,21 @@
+body {
+    color: rgb(29, 28, 28);
+    background: pink;
+}
+ 
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.corpo {
+    margin: 60px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.texto {
+    margin-left: 140px;
+    text-align: justify;
+}
